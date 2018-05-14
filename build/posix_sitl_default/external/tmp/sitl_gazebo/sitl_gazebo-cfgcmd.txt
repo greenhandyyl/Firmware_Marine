@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DCMAKE_INSTALL_PREFIX=/usr/local;-GNinja;/home/zhouhua/src/Firmware/Tools/sitl_gazebo'

@@ -1,0 +1,14 @@
+# Target labels
+ sitl_gazebo
+# Source files and their labels
+/home/zhouhua/src/Firmware/build/posix_sitl_default/platforms/posix/CMakeFiles/sitl_gazebo
+/home/zhouhua/src/Firmware/build/posix_sitl_default/platforms/posix/CMakeFiles/sitl_gazebo.rule
+/home/zhouhua/src/Firmware/build/posix_sitl_default/platforms/posix/CMakeFiles/sitl_gazebo-complete.rule
+/home/zhouhua/src/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-install.rule
+/home/zhouhua/src/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-mkdir.rule
+/home/zhouhua/src/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-download.rule
+/home/zhouhua/src/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-update.rule
+/home/zhouhua/src/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-patch.rule
+/home/zhouhua/src/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-configure.rule
+/home/zhouhua/src/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-build.rule
+/home/zhouhua/src/Firmware/build/posix_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-forceconfigure.rule

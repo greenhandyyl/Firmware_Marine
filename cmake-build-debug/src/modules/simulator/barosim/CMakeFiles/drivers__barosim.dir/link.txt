@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__barosim.a  CMakeFiles/drivers__barosim.dir/baro.cpp.o
+/usr/bin/ranlib libdrivers__barosim.a

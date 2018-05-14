@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__airspeedsim.a  CMakeFiles/drivers__airspeedsim.dir/airspeedsim.cpp.o CMakeFiles/drivers__airspeedsim.dir/meas_airspeed_sim.cpp.o
+/usr/bin/ranlib libdrivers__airspeedsim.a

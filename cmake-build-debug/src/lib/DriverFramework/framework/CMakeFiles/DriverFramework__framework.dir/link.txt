@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDriverFramework__framework.a  CMakeFiles/DriverFramework__framework.dir/px4/df_dummy.cpp.o
+/usr/bin/ranlib libDriverFramework__framework.a

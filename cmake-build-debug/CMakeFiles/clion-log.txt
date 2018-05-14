@@ -1,0 +1,28 @@
+/home/zhouhua/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/181.4668.70/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/zhouhua/src/Firmware
+-- PX4 VERSION: v1.8.0-beta1-9-g5de5d6e
+-- CONFIG: posix_sitl_default
+-- Build Type: Debug
+-- The CXX compiler identification is GNU 5.4.0
+-- The C compiler identification is GNU 5.4.0
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Found PythonInterp: /usr/bin/python (found version "2.7.12") 
+-- Found PY_jinja2: /usr/local/lib/python2.7/dist-packages/jinja2  
+-- C compiler: cc (Ubuntu 5.4.0-6ubuntu1~16.04.9) 5.4.0 20160609
+-- C++ compiler: c++ (Ubuntu 5.4.0-6ubuntu1~16.04.9) 5.4.0 20160609
+-- PX4 ECL: Very lightweight Estimation & Control Library v0.9.0-487-g372f9f4
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zhouhua/src/Firmware/cmake-build-debug

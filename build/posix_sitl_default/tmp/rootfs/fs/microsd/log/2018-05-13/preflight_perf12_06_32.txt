@@ -1,0 +1,48 @@
+TOP NOT IMPLEMENTED ON LINUX, QURT, WINDOWS (ONLY ON NUTTX, APPLE)
+PERFORMANCE COUNTERS PRE-FLIGHT
+
+sd write: 0 events, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+sd drop: 0 events
+mavlink_txe: 0 events
+mavlink_el: 44 events, 408us elapsed, 9us avg, min 3us max 99us 14.169us rms
+mavlink_txe: 0 events
+mavlink_el: 51 events, 506us elapsed, 9us avg, min 4us max 91us 12.333us rms
+gnda_nano: 0 events
+gnda_nani: 0 events
+gnda_dt: 0 events, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+rover position control: 0 events, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+navigator: 0 events, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+land_detector_cycle: 12 events, 115us elapsed, 9us avg, min 1us max 81us 23.138us rms
+sensors: 57 events, 585us elapsed, 10us avg, min 5us max 26us 5.677us rms
+pwm_out_sim control latency: 0 events, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+airspeed_comms_errors: 0 events
+airspeed_read: 125 events, 174us elapsed, 1us avg, min 1us max 3us 0.522us rms
+barosim_comms_errors: 0 events
+barosim_measure: 0 events, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+barosim_read: 129 events, 92us elapsed, 0us avg, min 1us max 19us 1.724us rms
+sim_bad_values: 0 events
+sim_bad_registers: 0 events
+sim_accel_resched: 0 events
+sim_mag_read: 131 events, 120us elapsed, 0us avg, min 0us max 14us 1.307us rms
+sim_accel_read: 331 events, 446us elapsed, 1us avg, min 0us max 22us 1.776us rms
+gyrosim_reset_retries: 0 events
+gyrosim_good_transfers: 0 events
+gyrosim_read: 536 events, 1228us elapsed, 2us avg, min 1us max 70us 4.472us rms
+gyrosim_gyro_read: 0 events
+gyrosim_accel_read: 0 events
+sim_network_interval: 361 events, 3978us avg, min 2803us max 4721us 172.860us rms
+sim_network_delay: 363 events, 116534010121us elapsed, 321030330us avg, min 321028933us max 321031745us 986.987us rms
+sim_airspeed_delay: 0 events, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+sim_gps_delay: 0 events, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+sim_mag_delay: 0 events, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+sim_baro_delay: 0 events, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+sim_mpu_delay: 0 events, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+sim_accel_delay: 0 events, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+param_set: 73 events, 121us elapsed, 1us avg, min 0us max 20us 2.490us rms
+param_get: 746 events, 83us elapsed, 0us avg, min 0us max 13us 0.555us rms
+param_find: 406 events, 130us elapsed, 0us avg, min 0us max 19us 1.230us rms
+param_export: 0 events, 0us elapsed, 0us avg, min 0us max 0us 0.000us rms
+
+LOAD PRE-FLIGHT
+
+TOP NOT IMPLEMENTED ON LINUX, QURT, WINDOWS (ONLY ON NUTTX, APPLE)

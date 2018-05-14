@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__gyrosim.a  CMakeFiles/drivers__gyrosim.dir/gyrosim.cpp.o
+/usr/bin/ranlib libdrivers__gyrosim.a
